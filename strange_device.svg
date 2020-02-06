@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <path fill="#694C1F" d="M29.02,4.98L31.02,6.98A17,17 0,0,1 6.98,31.02L4.98,29.02z"/>
+  <ellipse fill="#A47447" cx="17" cy="17" rx="17" ry="17"/>
+  <ellipse fill="#444444" stroke="#B8B8B8" cx="9" cy="10" rx="2.5" ry="2.5"/>
+  <ellipse fill="#ECECEC" stroke="#D8D8D8" cx="17" cy="10" rx="2.5" ry="2.5"/>
+  <ellipse fill="#444444" stroke="#B8B8B8" cx="25" cy="10" rx="2.5" ry="2.5"/>
+  <ellipse fill="#ECECEC" stroke="#D8D8D8" cx="13" cy="17" rx="2.5" ry="2.5"/>
+  <ellipse fill="#ECECEC" stroke="#D8D8D8" cx="21" cy="17" rx="2.5" ry="2.5"/>
+  <ellipse fill="#444444" stroke="#B8B8B8" cx="9" cy="24" rx="2.5" ry="2.5"/>
+  <ellipse fill="#ECECEC" stroke="#D8D8D8" cx="17" cy="24" rx="2.5" ry="2.5"/>
+  <ellipse fill="#444444" stroke="#B8B8B8" cx="25" cy="24" rx="2.5" ry="2.5"/>
+  <rect fill="#F35EFF" x="6.5" y="4" width="5" height="2"/>
+  <rect fill="#F35EFF" x="14.5" y="4" width="5" height="2"/>
+  <rect fill="#F35EFF" x="22.5" y="4" width="5" height="2"/>
+</svg>
