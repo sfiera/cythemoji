@@ -3,7 +3,8 @@ OPTIPNG=optipng
 
 PNG=grimoire.png \
 	blue_ok.png \
-	blue_ng.png
+	blue_ng.png \
+	pnyx.png
 
 all: $(PNG)
 
